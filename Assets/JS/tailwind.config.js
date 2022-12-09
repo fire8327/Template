@@ -1,8 +1,8 @@
-module.exports = {
-    content: [],
-    theme: {
-      colors: {},  
-      extend: {},
-    },
-    plugins: [],
-}
+tailwind.config = {
+  theme: {
+    extend: {
+      colors: {
+        },
+      },
+  },
+};
